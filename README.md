@@ -4,7 +4,7 @@ Implementing Cost Optimization Projects on AWS Using Boto3 SDK for Python with A
 
 ## Identifying Stale EBS Snapshots
 
-In this example, we'll create a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
+ we'll create a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
 
 ### Description:
 

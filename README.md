@@ -1,4 +1,5 @@
-#Implementing Cost Optimization Projects on AWS Using Boto3 SDK for Python with AWS Lambda and Event-Driven Serverless Architecture
+
+Implementing Cost Optimization Projects on AWS Using Boto3 SDK for Python with AWS Lambda and Event-Driven Serverless Architecture
 # AWS Cloud Cost Optimization - Identifying Stale Resources
 
 ## Identifying Stale EBS Snapshots
